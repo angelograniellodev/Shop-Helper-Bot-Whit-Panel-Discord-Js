@@ -74,4 +74,8 @@ All credits go to the creators of the NPM dependencies used in this bot.
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1169794060421189662/1173725507242688512/image.png?ex=6565000f&is=65528b0f&hm=1c99efa55655033af660777d64525bd8d6c93762214bca87cfeb234e10d4ceb6&)
 
+### Rules System:
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1169794060421189662/1173738956819529728/image.png?ex=65650c96&is=65529796&hm=7d966c480c42cc46cf6bf4f2365016a8357f3766b7599031a388e630f3b97196&)
+
 #### For more pls install my bot :)
