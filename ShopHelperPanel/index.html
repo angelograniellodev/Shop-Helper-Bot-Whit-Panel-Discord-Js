@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel Discord</title>
+
+    <!-- css native -->
+    <link rel="stylesheet" href="/files/css/index.css">
+</head>
+
+<body>
+    <div class="area">
+        <ul class="circles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <div class="main-container">
+        <h1 class="title">Panel Shop Helper Bot</h1>
+        <div class="msg-custom-conatiner">
+            <h2>Custom Message/Embed</h2>
+            <input type="text" id="normal-msg" placeholder="write the message" required class="input-msg-normal">
+            <input type="number" id="channelid" placeholder="channel id" required class="input-msg-id-channel">
+            <button class="btn-send-normal-msg" id="sendNormalMessage">
+                Send Message
+            </button>
+            <button class="btn-changue-embed-msg" id="changueEmbedMessage">
+                Embed Message
+            </button>
+        </div>
+
+        <footer>
+            Panel and Bot Made By <span id="linktoGithub">https://github.com/angelograniellodev</span>
+        </footer>
+    </div>
+
+    <!-- js native -->
+    <script src="/files/js/websocket.js"></script>
+    <script src="/files/js/frontend.js"></script>
+</body>
+
+</html>
